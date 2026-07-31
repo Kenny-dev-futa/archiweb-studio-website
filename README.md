@@ -1,11 +1,10 @@
-# archiweb-studio-website
+# ArchiWeb Studio Website
 
-A responsive multi-page business website built using HTML and CSS.
+A responsive business website built using HTML and CSS to showcase the services of ArchiWeb Studio.
 
 ## Pages
 
-- Home
-- About
+- Home & About
 - Services
 - Contact
 
@@ -13,8 +12,8 @@ A responsive multi-page business website built using HTML and CSS.
 
 - Responsive layout
 - Navigation menu
-- Modern design
-- Organized multi-page structure
+- Modern user interface
+- Clean and organized design
 
 ## Technologies Used
 
@@ -23,12 +22,18 @@ A responsive multi-page business website built using HTML and CSS.
 
 ## What I Learned
 
-Through this project, I improved my understanding of:
-- Multi-page website structure
-- Navigation between pages
-- CSS layouts
+This project helped me improve my understanding of:
+- Structuring a multi-page website
+- Creating navigation between pages
+- Responsive web design
+- CSS layouts and styling
 - Organizing project files
-- Building consistent user interfaces
+
+## Future Improvements
+
+- Add JavaScript for interactive features.
+- Improve animations and transitions.
+- Enhance accessibility and responsiveness.
 
 ## Author
 
